@@ -1,0 +1,4 @@
+NIVEL 3 (desafio): crie aqui a classe AnalisadorEmprestimoTest.java
+(mesmo pacote: br.ufrgs.inf.lab.nivel3). Nao ha nenhum teste pronto.
+Meta: pelo menos um teste para cada regra (1 a 6) do comentario de AnalisadorEmprestimo,
+incluindo os valores de fronteira. Rode com:  java scripts/Rodar.java
